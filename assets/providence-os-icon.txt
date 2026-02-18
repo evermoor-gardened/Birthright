@@ -1,0 +1,20 @@
+# ProvidenceOS Icon Description
+
+The primary icon of ProvidenceOS is a visual synthesis of the painting's dual figures and the split kernel.
+
+## Design
+- **Shape:** A perfect circle, representing wholeness and the unbroken sanctuary.
+- **Left half:** An open, stylized gear rendered in warm red-gold. Its teeth are soft and rounded, suggesting gentle, continuous motion.
+- **Right half:** A crystalline lock, faceted like a gem, rendered in deep indigo with subtle transparency. It is nestled into the gear's negative space, appearing both within and protected by it.
+- **Background:** A field of deep violet, matching the desktop's indigo.
+- **When idle:** The gear pulses slowly (a 4‑second cycle); the lock remains still.
+- **When active (e.g., system load):** The gear rotates slightly; the lock emits a faint glow.
+
+## Symbolism
+- The gear (public kernel) engages with the world.
+- The lock (private kernel) guards the user's identity.
+- Their union forms a complete circle: the sanctuary.
+
+## File Format
+- Provided as SVG and PNG (multiple resolutions: 16x16 to 512x512).
+- Also available as a favicon.ico for web interfaces.
