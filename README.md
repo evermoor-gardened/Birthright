@@ -1,1 +1,0 @@
-you can't take cc by nc sa and add clauses
